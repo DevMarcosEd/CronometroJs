@@ -1,5 +1,7 @@
 # CronometroJs
 
+<img src="./banner/CronometroJs.png">
+
 tecnologias usadas
 
 <ul>

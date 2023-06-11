@@ -1,7 +1,7 @@
 window.onload = function() {
     //variaveis
-    var segundos = 00
-    var milesimo = 00
+    var segundos = 0
+    var milesimo = 0
 
     var acrescentarSegudos = document.getElementById('segundos')
     var acrescentarMilesimo = document.getElementById('milesimo')
@@ -13,6 +13,8 @@ window.onload = function() {
     var Intervalo
 
     //iniciando o cronometro
+
+    //botão iniciar
     buttonIniciar.onclick = function() {
 
         clearInterval(Intervalo)
